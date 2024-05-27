@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.number {
+  margin-right: 10px;
+}
+
+.plus {
+  margin-right: 5px;
+}
+
+.minus {
+  margin-right: 5px;
+}
